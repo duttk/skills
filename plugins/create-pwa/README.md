@@ -27,4 +27,5 @@ Dashboard walkthroughs are checked against current docs before they're given.
 Then ask Claude Code for a new app, e.g. _"I want a PWA to track my plant watering"_, or
 invoke it directly with `/create-pwa`.
 
-The repository `duttk/recipes` is the worked example the skill refers to.
+The skill was developed alongside a worked example, `duttk/recipes` (private). Everything the
+skill needs is in its reference files.

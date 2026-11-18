@@ -8,7 +8,7 @@
       "name": "create-pwa",
       "source": "./plugins/create-pwa",
       "description": "Interview-driven workflow to plan, design, build, test and ship an installable PWA with push-to-deploy to your phone.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

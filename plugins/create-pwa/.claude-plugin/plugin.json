@@ -1,9 +1,16 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "create-pwa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interview-driven workflow to plan, design, build, test and ship an installable PWA (Vite + Svelte + Dexie, GitHub Actions, Cloudflare Workers/D1/R2/Access) with push-to-deploy to your phone.",
   "author": { "name": "duttk" },
-  "keywords": ["pwa", "svelte", "cloudflare", "github-actions", "playwright", "offline"],
+  "keywords": [
+    "pwa",
+    "svelte",
+    "cloudflare",
+    "github-actions",
+    "playwright",
+    "offline"
+  ],
   "skills": ["./skills/create-pwa"]
 }

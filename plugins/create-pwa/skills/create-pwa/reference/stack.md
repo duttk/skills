@@ -1,6 +1,7 @@
 # Default stack and setup
 
-Working example of everything below: the `duttk/recipes` repository. When in doubt, copy
+Working example of everything below: the `duttk/recipes` repository (private: only available when
+this session has access to it). When in doubt and it is available, copy
 from it (`vite.config.ts`, `playwright.config.ts`, `worker/`, `.github/workflows/ci.yml`,
 `tests/e2e/fixtures.ts`, `docs/DEPLOY.md`).
 

@@ -25,7 +25,8 @@ References (read when you reach the phase):
 - `reference/pitfalls.md`: problems already hit building PWAs this way, and the test that
   catches each one. **Read before implementing.**
 
-The `duttk/recipes` repository is a working example of everything here.
+The `duttk/recipes` repository (private) is a working example of everything here. Use it if this
+session can read it; otherwise the reference files above are self-contained.
 
 ---
 
