@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "duttk-skills",
+  "description": "Claude Code skills and plugins by duttk.",
+  "owner": { "name": "duttk" },
+  "plugins": [
+    {
+      "name": "create-pwa",
+      "source": "./plugins/create-pwa",
+      "description": "Interview-driven workflow to plan, design, build, test and ship an installable PWA with push-to-deploy to your phone.",
+      "version": "1.0.0"
+    }
+  ]
+}
